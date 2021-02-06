@@ -1,4 +1,4 @@
-# 141. Linked List Cycle
+# Linked List Cycle
 
 **Link: [Leetcode 141 - Easy](https://leetcode.com/problems/linked-list-cycle/)**
 

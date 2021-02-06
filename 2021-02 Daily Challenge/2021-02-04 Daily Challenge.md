@@ -1,4 +1,4 @@
-# 594. Longest Harmonious Subsequence
+# Longest Harmonious Subsequence
 
 **Link: [Leetcode 594 - Easy](https://leetcode.com/problems/longest-harmonious-subsequence/)**
 

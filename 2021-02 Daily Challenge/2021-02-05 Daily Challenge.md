@@ -1,4 +1,4 @@
-# 71. Simplify Path
+# Simplify Path
 
 **Link: [Leetcode 71 - Medium](https://leetcode.com/problems/simplify-path/)**
 
