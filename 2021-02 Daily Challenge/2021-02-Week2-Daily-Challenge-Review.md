@@ -26,4 +26,4 @@
   
 * [785. Is Graph Bipartite? - Medium](./2021-02-14-Daily-Challenge.md)
 
-  Use queue to traverse the nodes and coloring adjacent nodes with different.
+  Use queue to traverse the nodes and coloring adjacent nodes with different colors.

@@ -51,7 +51,7 @@ Explanation: We cannot find a way to divide the set of nodes into two independen
 
 Need to spend more time on graph problem solving, not very good at graph theory.
 
-Use queue to traverse the nodes and coloring adjacent nodes with different.
+Use queue to traverse the nodes and coloring adjacent nodes with different colors (0 or 1).
 
 ```c++
 class Solution {
