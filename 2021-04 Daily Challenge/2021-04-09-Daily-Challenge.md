@@ -49,7 +49,7 @@ Explanation: The first three characters "app" match, and the second string is sh
 
 ## Solution
 
-Create map and make comparations one by one. Will meetb my friends tomorrow, exciting XD 
+Create map and make comparations one by one. Will meet my friends tomorrow, so excited XD.
 
 ```c++
 class Solution {
