@@ -53,7 +53,7 @@ Output: 0
 
 ## Solution
 
-At first I got a Runtime Error because I forgot to add the restriction: `INT_MAX - dp[i] > dp[i - num]`
+At first I got a Runtime Error because I forgot to add the constraint: `INT_MAX - dp[i] > dp[i - num]`
 
 ```c++
 class Solution {
