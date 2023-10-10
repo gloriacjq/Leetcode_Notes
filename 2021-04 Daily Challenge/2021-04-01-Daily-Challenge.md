@@ -43,11 +43,11 @@ Output: false
 
 ## Solution
 
-THANKS for reminding from dj, back to daily challenge agian.
+THANKS for reminder from dj, back to daily challenge again.
 
 Find the middle of the list then reverse the later half.
 
-P.S. Don't know why the runtime and memory usage are not very efficient, will figure it out on the weekend.
+P.S. Don't know why the runtime and memory usage are not very efficient, will figure it out on weekend.
 
 ```c++
 /**
